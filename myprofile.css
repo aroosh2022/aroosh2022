@@ -1,0 +1,24 @@
+body{
+	background: skyblue;
+}
+h1{
+	color: white;
+	font-family: sans-serif;
+	font-style: italic;
+	text-align: center;
+}
+p{
+	font-size: 25px;
+	font-family: cursive;
+	font-style: italic;
+	color: brown;
+}
+img{
+	height: 25%;
+	width: 25%;
+}
+textarea{
+	height: 50%;
+	width: 50%;
+	font-style: 100;
+}
